@@ -1,0 +1,2 @@
+# No external dependencies required.
+# This project runs on the standard Python library (tkinter).
